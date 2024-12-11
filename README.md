@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 😄 I’m Dakui.
+- 📫 How to reach me: dakui.workshop@gmail.com
+
 <!--
 **Dakui-Workshop/Dakui-Workshop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
